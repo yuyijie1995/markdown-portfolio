@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* do it
+* do what
+  * i said do it
+  * so do what
